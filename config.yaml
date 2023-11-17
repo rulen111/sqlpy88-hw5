@@ -1,0 +1,7 @@
+DB:
+  PROTOCOL: postgresql
+  SERVER: localhost
+  PORT: ------
+  NAME: ------
+  USER: ------
+  PASSWORD: ------
